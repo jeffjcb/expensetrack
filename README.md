@@ -1,4 +1,4 @@
-# Tendie-Tracker
+# Moneyfest
 A web app for tracking expenses and budgets.
 
 ## Features
