@@ -1,9 +1,6 @@
 # Tendie-Tracker
 A web app for tracking expenses and budgets.
 
-What are tendies?
-Basically, money. Internet people call money 'tendies' and it's a word play on 'tender' (i.e. legal currency) and chicken tenders the food ¯\\\_(ツ)_/¯
-
 ## Features
   * Quick and bulk expensing
   * Budget creation and automatic tracking of expenses per budget
@@ -15,8 +12,6 @@ Basically, money. Internet people call money 'tendies' and it's a word play on '
   * Responsive design - compatible with all major browsers and devices
 
 ## Built with
-  * Front-end: [Bootstrap](https://getbootstrap.com/), [Chart.js](https://www.chartjs.org/), and [DataTables](https://datatables.net/)
-    * [Tendietracker.com](https://www.tendietracker.com) uses [Webflow](https://www.webflow.com) and stills / mock ups from [Pixabay](https://pixabay.com) and [Burst](https://burst.shopify.com). Images are created with [Gimp](https://www.gimp.org/), [Figma](https://www.figma.com), and [ScreenToGif](https://www.screentogif.com/)
   * Back-end: [Flask](https://flask.palletsprojects.com)
   * Hosting: [Heroku](https://www.heroku.com)
 
@@ -62,10 +57,3 @@ DATABASE_URL=postgres://{user}:{password}@{hostname}:{port}/{database-name}
 ```
 7) Build and run the Flask app in VSCode
 
-## Discussion
-I started working on this in March 2020 as part of my CS50 final project. My main goal was to replace an Excel file I was using for tracking expenses and originally this app had only 1 form and 2 or 3 pages on it. The pandemic gave me extra time to think and explore different technology so I ended up adding features that I was curious to learn about. Some of the other things I wanted to add and may work on at a later time include:
-  * Tests
-  * User intro / walk-through of the app
-  * Improved budget tracking (i.e calculates if your weekly / monthly spending is on-track or not)
-  * Dark theme
-  * Suggested spend categories
