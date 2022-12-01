@@ -1,4 +1,4 @@
-# Moneyfest
+# Tindietracker
 A web app for tracking expenses and budgets.
 
 ## Features
